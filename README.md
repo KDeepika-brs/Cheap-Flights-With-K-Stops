@@ -4,4 +4,4 @@
 
 ##### The algorithm returns the cheapest cost to reach the destination city or -1 if there is no such path.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Cheap-Flights-With-K-Stops/).
